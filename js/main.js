@@ -75,7 +75,7 @@
 	});
 
 	$('#testimonial-slider').owlCarousel({
-		loop:true,
+		loop:false,
 		margin:15,
 		dots : true,
 		nav: false,
